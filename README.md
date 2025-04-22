@@ -11,9 +11,3 @@ This repository contains various GSAP animation projects. Below are the links to
 - Description: A basic example of GSAP timeline for animating multiple elements in sequence.
 
 ---
-
-## How to Add More Projects:
-1. Create a new folder inside `my-gsap-lab/` (for example: `new-project`).
-2. Add your project files (HTML, CSS, JS) in that folder.
-3. Update this `README.md` with the new link.
-
